@@ -4,11 +4,8 @@ class Dog
     @fido = fido
   end
 
-  def fido=(fido)
-    @fido
-  end
-
   def fido
     @fido
   end
+
 end
