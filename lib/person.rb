@@ -4,5 +4,5 @@ class Person
 end
 
 adele_goldberg = Person.new
-snoopy = Person.new
+alan_kay = Person.new
 lassie = Person.new
