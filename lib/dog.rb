@@ -1,9 +1,10 @@
 # dog.rb
 class Dog
-  attr_accessor :fido, :snoopy
-  attr_reader :dog
-  def initialize(dog)
-    @dog = dog
+  def fido
+  end
+  def snoopy
+  end
+  def lassie
   end
 
 end
