@@ -3,6 +3,6 @@ class Person
 
 end
 
-adele_goldberg = Dog.new
-snoopy = Dog.new
-lassie = Dog.new
+adele_goldberg = Person.new
+snoopy = Person.new
+lassie = Person.new
